@@ -1,0 +1,71 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="4"
+    android:columnCount="4"
+    tools:context="com.example.jmscha14.harcourtschappel2.MainActivity">
+
+    <ImageButton
+        android:id="@+id/i0"
+        android:tag="1"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i1"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i2"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i3"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i4"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i5"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i6"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i7"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i8"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i9"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i10"
+        style="@style/imageStyle"/>
+    <ImageButton
+        android:id="@+id/i11"
+        style="@style/imageStyle"/>
+    <ImageButton
+        android:id="@+id/i12"
+        style="@style/imageStyle"/>
+    <ImageButton
+        android:id="@+id/i13"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i14"
+        style="@style/imageStyle"/>
+
+    <ImageButton
+        android:id="@+id/i15"
+        style="@style/imageStyle"/>
+
+</GridLayout>
